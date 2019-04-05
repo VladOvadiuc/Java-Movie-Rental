@@ -1,0 +1,8 @@
+2,Mowgly,2018,Adventure,90,8.0
+6,CaptainMarvel,2019,action,123,7.8
+3,Frozen,2016,Animation,115,8.0
+10,Exc,2010,fasfsaf,110,110.0
+4,Bigfoot,1998,Horror,98,7.0
+11,Misigan,2010,what,100,100.0
+5,Mixy,2019,Action,100,4.0
+1,Deadpool,2016,Comedy,90,7.8

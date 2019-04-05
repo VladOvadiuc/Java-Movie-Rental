@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="mpp..client.main" target="11" />
+      <module name="mpp..client.test" target="11" />
+      <module name="mpp..server.main" target="11" />
+      <module name="mpp..server.test" target="11" />
+      <module name="mpp..sockets.main" target="11" />
+      <module name="mpp..sockets.test" target="11" />
+      <module name="mpp.vlad_dani..client.main" target="11" />
+      <module name="mpp.vlad_dani..client.test" target="11" />
+      <module name="mpp.vlad_dani..server.main" target="11" />
+      <module name="mpp.vlad_dani..server.test" target="11" />
+      <module name="mpp.vlad_dani..sockets.main" target="11" />
+      <module name="mpp.vlad_dani..sockets.test" target="11" />
+      <module name="ro.ubb.socket1.client.main" target="11" />
+      <module name="ro.ubb.socket1.client.test" target="11" />
+      <module name="ro.ubb.socket1.server.main" target="11" />
+      <module name="ro.ubb.socket1.server.test" target="11" />
+      <module name="ro.ubb.socket1.sockets.main" target="11" />
+      <module name="ro.ubb.socket1.sockets.test" target="11" />
+      <module name="sockets.client.main" target="11" />
+      <module name="sockets.client.test" target="11" />
+      <module name="sockets.server.main" target="11" />
+      <module name="sockets.server.test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
